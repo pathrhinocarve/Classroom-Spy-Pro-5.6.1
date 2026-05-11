@@ -36,7 +36,7 @@
 
 ---
 
-## 📋 Key Features (Full 2026 Version)
+## 📋 Key Features (Full 2026 Version):
 - **Live Thumbnail View:** Monitor up to 36+ students simultaneously with improved refresh rates.
 - **Remote Control:** Take control of a remote PC for instant assistance or demonstration.
 - **Internet & App Restriction:** Block specific websites or software instantly with updated filters.
